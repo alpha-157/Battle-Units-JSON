@@ -643,7 +643,7 @@
         }
     ],
     "hp": 167000,
-    "moveSpeed": 2.799999952316284,
+    "moveSpeed": 2.299999952316284,
     "maxSlopeAngle": 50.0,
     "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
