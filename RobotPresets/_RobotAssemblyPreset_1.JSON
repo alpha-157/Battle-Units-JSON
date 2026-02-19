@@ -273,9 +273,9 @@
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
-        "cooldownTime": 1.0,
-        "timeActive": 0.75,
-        "primaryEffectMultiplier": 10.0,
+        "cooldownTime": 0.5,
+        "timeActive": 0.10000000149011612,
+        "primaryEffectMultiplier": 100.0,
         "secondaryEffectMultiplier": 0.0,
         "maxCharges": 20,
         "abilityType": 7,
