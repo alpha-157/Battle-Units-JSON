@@ -259,13 +259,13 @@
     "weaponMounts": [
         {
             "x": -0.3499999940395355,
-            "y": 4.24600076675415,
-            "z": -0.09999990463256836
+            "y": 4.340000152587891,
+            "z": -0.09999966621398926
         },
         {
             "x": 0.34999996423721316,
-            "y": 4.325000286102295,
-            "z": -0.09999990463256836
+            "y": 4.339999675750732,
+            "z": -0.09999966621398926
         }
     ],
     "hp": 113000,
@@ -273,14 +273,14 @@
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
-        "cooldownTime": 6.0,
-        "timeActive": 0.30000001192092898,
-        "primaryEffectMultiplier": 20.0,
+        "cooldownTime": 0.4000000059604645,
+        "timeActive": 0.20000000298023225,
+        "primaryEffectMultiplier": 5.0,
         "secondaryEffectMultiplier": 0.0,
-        "maxCharges": 3,
-        "abilityType": 3,
+        "maxCharges": 25,
+        "abilityType": 7,
         "canBeEndedManually": false,
-        "endsOnceGrounded": false,
+        "endsOnceGrounded": true,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
