@@ -34,6 +34,7 @@
         "canBeEndedManually": false,
         "endsOnceGrounded": false,
         "canBeTriggeredMultipleTimes": false,
+        "rechargeAllChargesAtOnce": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -280,9 +281,10 @@
         "secondaryEffectMultiplier": 4.0,
         "maxCharges": 12,
         "abilityType": 7,
-        "canBeEndedManually": true,
+        "canBeEndedManually": false,
         "endsOnceGrounded": true,
-        "canBeTriggeredMultipleTimes": false,
+        "canBeTriggeredMultipleTimes": true,
+        "rechargeAllChargesAtOnce": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -479,6 +481,7 @@
         "canBeEndedManually": true,
         "endsOnceGrounded": false,
         "canBeTriggeredMultipleTimes": false,
+        "rechargeAllChargesAtOnce": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -683,6 +686,7 @@
         "canBeEndedManually": true,
         "endsOnceGrounded": false,
         "canBeTriggeredMultipleTimes": false,
+        "rechargeAllChargesAtOnce": false,
         "shieldConfig": {
             "shieldType": 1,
             "shieldCanBeShotThroughByAllies": true,
@@ -854,6 +858,7 @@
         "canBeEndedManually": false,
         "endsOnceGrounded": false,
         "canBeTriggeredMultipleTimes": false,
+        "rechargeAllChargesAtOnce": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
