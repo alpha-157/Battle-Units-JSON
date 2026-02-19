@@ -33,6 +33,7 @@
         "abilityType": 3,
         "canBeEndedManually": false,
         "endsOnceGrounded": false,
+        "canBeTriggeredMultipleTimes": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -273,14 +274,15 @@
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
-        "cooldownTime": 5.0,
+        "cooldownTime": 10.0,
         "timeActive": 0.30000001192092898,
         "primaryEffectMultiplier": 15.0,
         "secondaryEffectMultiplier": 4.0,
         "maxCharges": 12,
         "abilityType": 7,
-        "canBeEndedManually": false,
+        "canBeEndedManually": true,
         "endsOnceGrounded": true,
+        "canBeTriggeredMultipleTimes": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -476,6 +478,7 @@
         "abilityType": 2,
         "canBeEndedManually": true,
         "endsOnceGrounded": false,
+        "canBeTriggeredMultipleTimes": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -679,6 +682,7 @@
         "abilityType": 5,
         "canBeEndedManually": true,
         "endsOnceGrounded": false,
+        "canBeTriggeredMultipleTimes": false,
         "shieldConfig": {
             "shieldType": 1,
             "shieldCanBeShotThroughByAllies": true,
@@ -849,6 +853,7 @@
         "abilityType": 3,
         "canBeEndedManually": false,
         "endsOnceGrounded": false,
+        "canBeTriggeredMultipleTimes": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
