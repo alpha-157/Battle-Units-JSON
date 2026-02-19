@@ -272,7 +272,7 @@
         }
     ],
     "hp": 99000,
-    "moveSpeed": 3.0,
+    "moveSpeed": 5.0,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
