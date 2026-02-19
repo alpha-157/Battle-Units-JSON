@@ -23,7 +23,6 @@
     "hp": 100000,
     "moveSpeed": 5.5,
     "maxSlopeAngle": 50.0,
-    "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 6.0,
@@ -255,39 +254,33 @@
     }
 },
 {
-    "robot": 7,
-    "robotMovementType": 2,
+    "robot": 8,
+    "robotMovementType": 1,
     "weaponMounts": [
         {
-            "x": -0.7998170852661133,
-            "y": 3.374999761581421,
-            "z": -0.9000000357627869
+            "x": -0.3499999940395355,
+            "y": 4.24600076675415,
+            "z": -0.09999990463256836
         },
         {
-            "x": 0.0001829440298024565,
-            "y": 3.700000047683716,
-            "z": -0.6000002026557922
-        },
-        {
-            "x": 0.8001829981803894,
-            "y": 3.374999761581421,
-            "z": -0.9000000357627869
+            "x": 0.34999996423721316,
+            "y": 4.325000286102295,
+            "z": -0.09999990463256836
         }
     ],
-    "hp": 100000,
-    "moveSpeed": 3.0,
+    "hp": 113000,
+    "moveSpeed": 5.0,
     "maxSlopeAngle": 50.0,
-    "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
-        "cooldownTime": 10.0,
-        "timeActive": 0.20000000298023225,
-        "primaryEffectMultiplier": 11.0,
-        "secondaryEffectMultiplier": 14.0,
-        "maxCharges": 2,
-        "abilityType": 1,
+        "cooldownTime": 6.0,
+        "timeActive": 0.30000001192092898,
+        "primaryEffectMultiplier": 20.0,
+        "secondaryEffectMultiplier": 0.0,
+        "maxCharges": 3,
+        "abilityType": 3,
         "canBeEndedManually": false,
-        "endsOnceGrounded": true,
+        "endsOnceGrounded": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
@@ -312,36 +305,51 @@
     },
     "weapons": [
         {
-            "weaponType": 14,
-            "ammoType": 5,
-            "bulletType": 8,
-            "hitType": 7,
+            "weaponType": 4,
+            "ammoType": 4,
+            "bulletType": 3,
+            "hitType": 1,
             "weaponMuzzles": [
                 {
-                    "x": 0.0,
-                    "y": 0.07000000029802323,
-                    "z": 0.20000000298023225
+                    "x": 0.10000000149011612,
+                    "y": 0.10000000149011612,
+                    "z": 0.4000000059604645
+                },
+                {
+                    "x": -0.10000000149011612,
+                    "y": 0.10000000149011612,
+                    "z": 0.4000000059604645
+                },
+                {
+                    "x": -0.10000000149011612,
+                    "y": -0.05000000074505806,
+                    "z": 0.4000000059604645
+                },
+                {
+                    "x": 0.10000000149011612,
+                    "y": -0.05000000074505806,
+                    "z": 0.4000000059604645
                 }
             ],
-            "shootInterval": 0.8999999761581421,
-            "burstInterval": 0.11999999731779099,
-            "reloadTime": 5.0,
+            "shootInterval": 0.15000000596046449,
+            "burstInterval": 0.0,
+            "reloadTime": 0.699999988079071,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 18,
-            "barrelAmount": 1,
-            "burstAmount": 3,
-            "bulletSpeed": 110.0,
+            "ammo": 13,
+            "barrelAmount": 4,
+            "burstAmount": 0,
+            "bulletSpeed": 60.0,
             "bulletSize": 0.10000000149011612,
-            "bulletLifeTime": 4.0,
-            "bulletTimeAliveAfterHit": 0.0,
-            "range": 350.0,
-            "damage": 397,
-            "verticalSpread": 0.30000001192092898,
-            "horizontalSpread": 0.30000001192092898,
-            "explosionRange": 0.0,
-            "continuousReload": false,
-            "barrelSelectionBasedOnAmmoCount": false,
+            "bulletLifeTime": 6.0,
+            "bulletTimeAliveAfterHit": 2.0,
+            "range": 300.0,
+            "damage": 499,
+            "verticalSpread": 0.10000000149011612,
+            "horizontalSpread": 0.10000000149011612,
+            "explosionRange": 1.0,
+            "continuousReload": true,
+            "barrelSelectionBasedOnAmmoCount": true,
             "guidedBullet": false,
             "homingNoiseFrequency": 0.0,
             "homingNoiseAmplitude": 0.0,
@@ -355,79 +363,51 @@
             "maxArcEndpointRange": 0.0
         },
         {
-            "weaponType": 14,
-            "ammoType": 5,
-            "bulletType": 8,
-            "hitType": 7,
+            "weaponType": 3,
+            "ammoType": 4,
+            "bulletType": 3,
+            "hitType": 1,
             "weaponMuzzles": [
                 {
-                    "x": 0.0,
-                    "y": 0.07000000029802323,
-                    "z": 0.20000000298023225
-                }
-            ],
-            "shootInterval": 0.8999999761581421,
-            "burstInterval": 0.11999999731779099,
-            "reloadTime": 5.0,
-            "reloadAnimationLength": 0.0,
-            "particlesPerShot": 1.0,
-            "ammo": 18,
-            "barrelAmount": 1,
-            "burstAmount": 3,
-            "bulletSpeed": 110.0,
-            "bulletSize": 0.10000000149011612,
-            "bulletLifeTime": 4.0,
-            "bulletTimeAliveAfterHit": 0.0,
-            "range": 350.0,
-            "damage": 397,
-            "verticalSpread": 0.30000001192092898,
-            "horizontalSpread": 0.30000001192092898,
-            "explosionRange": 0.0,
-            "continuousReload": false,
-            "barrelSelectionBasedOnAmmoCount": false,
-            "guidedBullet": false,
-            "homingNoiseFrequency": 0.0,
-            "homingNoiseAmplitude": 0.0,
-            "homingStrength": 0.0,
-            "upwardRiseTime": 0.0,
-            "upwardRiseStrength": 0.0,
-            "arcBullet": false,
-            "arcLaunchAngle": 0.0,
-            "arcLaunchAngleRandomness": 0.0,
-            "minArcEndpointRange": 0.0,
-            "maxArcEndpointRange": 0.0
-        },
-        {
-            "weaponType": 14,
-            "ammoType": 5,
-            "bulletType": 8,
-            "hitType": 7,
-            "weaponMuzzles": [
+                    "x": 0.15000000596046449,
+                    "y": 0.15000000596046449,
+                    "z": 0.550000011920929
+                },
                 {
-                    "x": 0.0,
-                    "y": 0.07000000029802323,
-                    "z": 0.20000000298023225
+                    "x": -0.15000000596046449,
+                    "y": 0.15000000596046449,
+                    "z": 0.550000011920929
+                },
+                {
+                    "x": -0.15000000596046449,
+                    "y": -0.05000000074505806,
+                    "z": 0.550000011920929
+                },
+                {
+                    "x": 0.15000000596046449,
+                    "y": -0.05000000074505806,
+                    "z": 0.550000011920929
                 }
             ],
-            "shootInterval": 0.8999999761581421,
-            "burstInterval": 0.11999999731779099,
-            "reloadTime": 5.0,
+            "shootInterval": 0.15000000596046449,
+            "burstInterval": 0.0,
+            "reloadTime": 0.699999988079071,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 18,
-            "barrelAmount": 1,
-            "burstAmount": 3,
-            "bulletSpeed": 110.0,
+            "ammo": 13,
+            "barrelAmount": 4,
+            "burstAmount": 0,
+            "bulletSpeed": 60.0,
             "bulletSize": 0.10000000149011612,
-            "bulletLifeTime": 4.0,
-            "bulletTimeAliveAfterHit": 0.0,
-            "range": 350.0,
-            "damage": 397,
-            "verticalSpread": 0.30000001192092898,
-            "horizontalSpread": 0.30000001192092898,
-            "explosionRange": 0.0,
-            "continuousReload": false,
-            "barrelSelectionBasedOnAmmoCount": false,
+            "bulletLifeTime": 6.0,
+            "bulletTimeAliveAfterHit": 2.0,
+            "range": 300.0,
+            "damage": 998,
+            "verticalSpread": 0.10000000149011612,
+            "horizontalSpread": 0.10000000149011612,
+            "explosionRange": 1.0,
+            "continuousReload": true,
+            "barrelSelectionBasedOnAmmoCount": true,
             "guidedBullet": false,
             "homingNoiseFrequency": 0.0,
             "homingNoiseAmplitude": 0.0,
@@ -442,12 +422,12 @@
         }
     ],
     "shieldConfig": {
-        "shieldType": 2,
-        "shieldCanBeShotThroughByAllies": true,
+        "shieldType": 0,
+        "shieldCanBeShotThroughByAllies": false,
         "unlimitedShieldHp": false,
-        "maxShieldHp": 15000,
-        "shieldReactivationTreshold": 10000,
-        "shieldRechargeRatePerSecond": 250.0,
+        "maxShieldHp": 0,
+        "shieldReactivationTreshold": 0,
+        "shieldRechargeRatePerSecond": 0.0,
         "shieldOffset": {
             "x": 0.0,
             "y": 0.0,
@@ -486,7 +466,6 @@
     "hp": 115000,
     "moveSpeed": 2.0999999046325685,
     "maxSlopeAngle": 50.0,
-    "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 12.0,
@@ -690,7 +669,6 @@
     "hp": 167000,
     "moveSpeed": 2.299999952316284,
     "maxSlopeAngle": 50.0,
-    "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 4.0,
@@ -861,7 +839,6 @@
     "hp": 122000,
     "moveSpeed": 2.0,
     "maxSlopeAngle": 50.0,
-    "rotationLerpSpeed": 7.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 5.0,
