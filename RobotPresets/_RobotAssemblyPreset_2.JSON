@@ -640,13 +640,13 @@
         }
     ],
     "hp": 113000,
-    "moveSpeed": 5.0,
+    "moveSpeed": 10.0,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 0.4000000059604645,
         "timeActive": 0.20000000298023225,
-        "primaryEffectMultiplier": 5.0,
+        "primaryEffectMultiplier": 10.0,
         "secondaryEffectMultiplier": 0.0,
         "maxCharges": 25,
         "abilityType": 7,
