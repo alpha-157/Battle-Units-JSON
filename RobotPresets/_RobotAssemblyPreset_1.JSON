@@ -261,12 +261,12 @@
     "weaponMounts": [
         {
             "x": -0.3499999940395355,
-            "y": 4.340000152587891,
+            "y": 3.940000295639038,
             "z": -0.09999966621398926
         },
         {
             "x": 0.34999996423721316,
-            "y": 4.339999675750732,
+            "y": 3.93999981880188,
             "z": -0.09999966621398926
         }
     ],
@@ -284,7 +284,7 @@
         "canBeEndedManually": false,
         "endsOnceGrounded": true,
         "canBeTriggeredMultipleTimes": true,
-        "rechargeAllChargesAtOnce": false,
+        "rechargeAllChargesAtOnce": true,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
