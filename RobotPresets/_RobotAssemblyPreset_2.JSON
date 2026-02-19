@@ -645,9 +645,9 @@
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 1.75,
-        "timeActive": 0.75,
-        "primaryEffectMultiplier": 15.0,
-        "secondaryEffectMultiplier": 3.0,
+        "timeActive": 0.5,
+        "primaryEffectMultiplier": 20.0,
+        "secondaryEffectMultiplier": 4.0,
         "maxCharges": 12,
         "abilityType": 7,
         "canBeEndedManually": false,
