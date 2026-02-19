@@ -280,7 +280,7 @@
         "maxCharges": 25,
         "abilityType": 7,
         "canBeEndedManually": false,
-        "endsOnceGrounded": true,
+        "endsOnceGrounded": false,
         "shieldConfig": {
             "shieldType": 0,
             "shieldCanBeShotThroughByAllies": false,
