@@ -27,7 +27,7 @@
     "ability": {
         "cooldownTime": 14.0,
         "timeActive": 5.0,
-        "primaryEffectMultiplier": -2.5,
+        "primaryEffectMultiplier": -2.25,
         "secondaryEffectMultiplier": 1.5,
         "gravityValue": 1.0,
         "maxCharges": 1,
