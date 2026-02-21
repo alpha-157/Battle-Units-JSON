@@ -445,7 +445,7 @@
         }
     ],
     "hp": 171500,
-    "moveSpeed": 2.75,
+    "moveSpeed": 3.0,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
@@ -672,8 +672,8 @@
             "shieldType": 2,
             "shieldCanBeShotThroughByAllies": true,
             "unlimitedShieldHp": false,
-            "maxShieldHp": 1000,
-            "shieldReactivationTreshold": 1000,
+            "maxShieldHp": 100,
+            "shieldReactivationTreshold": 100,
             "shieldRechargeRatePerSecond": 0.0,
             "shieldOffset": {
                 "x": 0.0,
