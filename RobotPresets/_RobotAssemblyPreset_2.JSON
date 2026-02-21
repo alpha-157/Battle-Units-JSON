@@ -454,7 +454,7 @@
         "primaryEffectMultiplier": -2.0,
         "secondaryEffectMultiplier": 1.5,
         "gravityValue": 1.0,
-        "maxCharges": 6,
+        "maxCharges": 1,
         "abilityType": 6,
         "canBeEndedManually": false,
         "endsOnceGrounded": false,
