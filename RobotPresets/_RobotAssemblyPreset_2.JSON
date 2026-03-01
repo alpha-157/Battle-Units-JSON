@@ -662,7 +662,7 @@
         "cooldownTime": 12.0,
         "timeActive": 0.30000001192092898,
         "primaryEffectMultiplier": 11.0,
-        "secondaryEffectMultiplier": 1.25,
+        "secondaryEffectMultiplier": 0.5,
         "firstActivationEffectMultiplier": 2.0,
         "gravityValue": 0.029999999329447748,
         "maxCharges": 8,
