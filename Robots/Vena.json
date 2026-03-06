@@ -28,6 +28,7 @@
     },
     "robotType": 7,
     "robotMovementType": 2,
+    "shieldType": 2,
     "buildInShieldParameterHolder": {
         "instanceID": 162458
     }
