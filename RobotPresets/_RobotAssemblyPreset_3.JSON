@@ -233,8 +233,8 @@
             "z": -0.3249995708465576
         }
     ],
-    "hp": 171500,
-    "moveSpeed": 3.0,
+    "hp": 1372000,
+    "moveSpeed": 2.9000000953674318,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
