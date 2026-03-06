@@ -20,7 +20,11 @@
             "z": -0.5290005207061768
         }
     ],
-    "weaponClassOnWeaponMounts": [],
+    "weaponClassOnWeaponMounts": [
+        1,
+        1,
+        1
+    ],
     "hp": 115000,
     "moveSpeed": 2.0999999046325685,
     "maxSlopeAngle": 50.0,
@@ -670,7 +674,10 @@
             "z": -0.09999966621398926
         }
     ],
-    "weaponClassOnWeaponMounts": [],
+    "weaponClassOnWeaponMounts": [
+        2,
+        1
+    ],
     "hp": 99000,
     "moveSpeed": 5.0,
     "maxSlopeAngle": 50.0,
@@ -843,7 +850,11 @@
             "z": 0.19999933242797852
         }
     ],
-    "weaponClassOnWeaponMounts": [],
+    "weaponClassOnWeaponMounts": [
+        1,
+        2,
+        1
+    ],
     "hp": 155000,
     "moveSpeed": 2.700000047683716,
     "maxSlopeAngle": 50.0,
