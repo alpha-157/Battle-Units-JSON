@@ -1,0 +1,18 @@
+{
+    "abilityShieldType": 2,
+    "shieldCanBeShotThroughByAllies": true,
+    "unlimitedShieldHp": false,
+    "maxShieldHp": 20,
+    "shieldReactivationTreshold": 20,
+    "shieldRechargeRatePerSecond": 0.0,
+    "shieldOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "shieldRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
