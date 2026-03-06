@@ -20,6 +20,7 @@
             "z": -0.5290005207061768
         }
     ],
+    "weaponClassOnWeaponMounts": [],
     "hp": 115000,
     "moveSpeed": 2.0999999046325685,
     "maxSlopeAngle": 50.0,
@@ -63,6 +64,7 @@
     "weapons": [
         {
             "weaponType": 9,
+            "weaponClass": 1,
             "ammoType": 1,
             "bulletType": 5,
             "hitType": 2,
@@ -106,6 +108,7 @@
         },
         {
             "weaponType": 9,
+            "weaponClass": 1,
             "ammoType": 1,
             "bulletType": 5,
             "hitType": 2,
@@ -149,6 +152,7 @@
         },
         {
             "weaponType": 9,
+            "weaponClass": 1,
             "ammoType": 1,
             "bulletType": 5,
             "hitType": 2,
@@ -233,6 +237,7 @@
             "z": -0.9000000357627869
         }
     ],
+    "weaponClassOnWeaponMounts": [],
     "hp": 100000,
     "moveSpeed": 3.0,
     "maxSlopeAngle": 50.0,
@@ -276,6 +281,7 @@
     "weapons": [
         {
             "weaponType": 14,
+            "weaponClass": 2,
             "ammoType": 5,
             "bulletType": 8,
             "hitType": 7,
@@ -319,6 +325,7 @@
         },
         {
             "weaponType": 14,
+            "weaponClass": 2,
             "ammoType": 5,
             "bulletType": 8,
             "hitType": 7,
@@ -362,6 +369,7 @@
         },
         {
             "weaponType": 14,
+            "weaponClass": 2,
             "ammoType": 5,
             "bulletType": 8,
             "hitType": 7,
@@ -446,6 +454,11 @@
             "z": -0.3249995708465576
         }
     ],
+    "weaponClassOnWeaponMounts": [
+        1,
+        2,
+        1
+    ],
     "hp": 1372000,
     "moveSpeed": 2.9000000953674318,
     "maxSlopeAngle": 50.0,
@@ -489,6 +502,7 @@
     "weapons": [
         {
             "weaponType": 13,
+            "weaponClass": 1,
             "ammoType": 5,
             "bulletType": 7,
             "hitType": 6,
@@ -532,6 +546,7 @@
         },
         {
             "weaponType": 14,
+            "weaponClass": 2,
             "ammoType": 5,
             "bulletType": 8,
             "hitType": 7,
@@ -575,6 +590,7 @@
         },
         {
             "weaponType": 13,
+            "weaponClass": 1,
             "ammoType": 5,
             "bulletType": 7,
             "hitType": 6,
@@ -654,6 +670,7 @@
             "z": -0.09999966621398926
         }
     ],
+    "weaponClassOnWeaponMounts": [],
     "hp": 99000,
     "moveSpeed": 5.0,
     "maxSlopeAngle": 50.0,
@@ -697,6 +714,7 @@
     "weapons": [
         {
             "weaponType": 12,
+            "weaponClass": 2,
             "ammoType": 2,
             "bulletType": 6,
             "hitType": 8,
@@ -740,6 +758,7 @@
         },
         {
             "weaponType": 9,
+            "weaponClass": 1,
             "ammoType": 1,
             "bulletType": 5,
             "hitType": 2,
@@ -824,6 +843,7 @@
             "z": 0.19999933242797852
         }
     ],
+    "weaponClassOnWeaponMounts": [],
     "hp": 155000,
     "moveSpeed": 2.700000047683716,
     "maxSlopeAngle": 50.0,
@@ -867,6 +887,7 @@
     "weapons": [
         {
             "weaponType": 11,
+            "weaponClass": 1,
             "ammoType": 2,
             "bulletType": 6,
             "hitType": 8,
@@ -910,6 +931,7 @@
         },
         {
             "weaponType": 12,
+            "weaponClass": 2,
             "ammoType": 2,
             "bulletType": 6,
             "hitType": 8,
@@ -953,6 +975,7 @@
         },
         {
             "weaponType": 11,
+            "weaponClass": 1,
             "ammoType": 2,
             "bulletType": 6,
             "hitType": 8,
