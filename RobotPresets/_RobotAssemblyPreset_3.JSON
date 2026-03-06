@@ -246,7 +246,7 @@
         2,
         1
     ],
-    "hp": 1372000,
+    "hp": 137200,
     "moveSpeed": 2.9000000953674318,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
@@ -332,16 +332,16 @@
             "maxArcEndpointRange": 0.0
         },
         {
-            "weaponType": 14,
-            "weaponClass": 2,
+            "weaponType": 13,
+            "weaponClass": 1,
             "ammoType": 5,
-            "bulletType": 8,
-            "hitType": 7,
+            "bulletType": 7,
+            "hitType": 6,
             "weaponMuzzles": [
                 {
                     "x": 0.0,
-                    "y": 0.07000000029802323,
-                    "z": 0.20000000298023225
+                    "y": 0.11999999731779099,
+                    "z": 0.30000001192092898
                 }
             ],
             "shootInterval": 0.8999999761581421,
@@ -357,7 +357,7 @@
             "bulletLifeTime": 4.0,
             "bulletTimeAliveAfterHit": 0.0,
             "range": 350.0,
-            "damage": 397,
+            "damage": 794,
             "verticalSpread": 0.30000001192092898,
             "horizontalSpread": 0.30000001192092898,
             "explosionRange": 0.0,
