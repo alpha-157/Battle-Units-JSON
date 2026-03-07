@@ -1,6 +1,6 @@
 {
-    "alloyCost": 100000,
-    "quantumCoresCost": 0,
+    "alloyCost": 0,
+    "quantumCoresCost": 1000,
     "hp": 99000,
     "moveSpeed": 5.0,
     "abilityType": 7,
