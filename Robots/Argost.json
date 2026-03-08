@@ -25,11 +25,11 @@
     ],
     "weaponClassOnWeaponMounts": [
         1,
-        2,
+        1,
         1
     ],
     "robotPrefab": {
-        "instanceID": 82304
+        "instanceID": 82342
     },
     "robotType": 9,
     "robotMovementType": 1,
