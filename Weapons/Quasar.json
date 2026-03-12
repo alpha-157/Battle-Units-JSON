@@ -32,7 +32,7 @@
     "maxArcEndpointRange": 0.0,
     "ammoType": 1,
     "weaponType": 10,
-    "weaponClass": 1,
+    "weaponClass": 2,
     "bulletType": 5,
     "hitType": 2,
     "reloadAnimation": {
