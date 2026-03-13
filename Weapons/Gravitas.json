@@ -1,6 +1,6 @@
 {
-    "alloyCost": 100000,
-    "quantumCoresCost": 0,
+    "alloyCost": 0,
+    "quantumCoresCost": 500,
     "shootInterval": 0.8999999761581421,
     "particlesPerShot": 1,
     "damage": 794.0,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 82930
+        "instanceID": 84408
     },
     "cameraShakeIntensity": 1.0
 }
