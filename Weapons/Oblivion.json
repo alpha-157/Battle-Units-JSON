@@ -1,15 +1,15 @@
 {
-    "alloyCost": 100000,
-    "quantumCoresCost": 0,
-    "shootInterval": 1.0,
+    "alloyCost": 0,
+    "quantumCoresCost": 500,
+    "shootInterval": 3.0,
     "particlesPerShot": 1,
-    "damage": 2500.0,
-    "burstInterval": 0.20000000298023225,
-    "burstAmount": 2,
-    "reloadTime": 2.0,
+    "damage": 281.0,
+    "burstInterval": 0.75,
+    "burstAmount": 3,
+    "reloadTime": 5.0,
     "continuousReload": false,
-    "ammo": 2,
-    "barrelAmount": 2,
+    "ammo": 3,
+    "barrelAmount": 3,
     "barrelSelectionBasedOnAmmoCount": true,
     "bulletSpeed": 60.0,
     "bulletLifeTime": 2.0,
@@ -51,7 +51,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 438644
+        "instanceID": 193198
     },
     "cameraShakeIntensity": 1.0
 }

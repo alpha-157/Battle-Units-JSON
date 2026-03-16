@@ -41,12 +41,12 @@
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.10000000149011612,
-            "z": 0.800000011920929
+            "y": 0.0,
+            "z": 0.4000000059604645
         }
     ],
     "weaponPrefab": {
-        "instanceID": 162358
+        "instanceID": 83088
     },
     "cameraShakeIntensity": 6.25
 }
