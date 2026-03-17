@@ -1,7 +1,7 @@
 {
     "cooldownTime": 4.0,
     "timeActive": -1.0,
-    "primaryEffectMultiplier": -1.0,
+    "primaryEffectMultiplier": 0.699999988079071,
     "secondaryEffectMultiplier": 0.0,
     "firstActivationEffectMultiplier": 1.0,
     "gravityValue": 1.0,
@@ -13,6 +13,6 @@
     "startCooldownAfterAbilityEnd": false,
     "abilityType": 5,
     "shieldParameterHolder": {
-        "instanceID": 79334
+        "instanceID": 79342
     }
 }
