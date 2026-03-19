@@ -27,6 +27,7 @@
     ],
     "hp": 115000,
     "moveSpeed": 2.0999999046325685,
+    "abilityType": 2,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
@@ -241,9 +242,14 @@
             "z": -0.9000000357627869
         }
     ],
-    "weaponClassOnWeaponMounts": [],
+    "weaponClassOnWeaponMounts": [
+        2,
+        2,
+        2
+    ],
     "hp": 100000,
     "moveSpeed": 3.0,
+    "abilityType": 8,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
@@ -254,7 +260,7 @@
         "firstActivationEffectMultiplier": 1.0,
         "gravityValue": 1.0,
         "maxCharges": 2,
-        "abilityType": 1,
+        "abilityType": 8,
         "canBeEndedManually": false,
         "endsOnceGrounded": true,
         "canBeTriggeredMultipleTimes": false,
@@ -417,7 +423,7 @@
         }
     ],
     "shieldConfig": {
-        "shieldType": 2,
+        "shieldType": 3,
         "shieldCanBeShotThroughByAllies": true,
         "unlimitedShieldHp": false,
         "maxShieldHp": 15000,
@@ -444,33 +450,34 @@
     "weaponMounts": [
         {
             "x": -0.800000011920929,
-            "y": 4.245999813079834,
-            "z": -0.3249995708465576
+            "y": 4.199999809265137,
+            "z": -0.19999980926513673
         },
         {
-            "x": 0.010999966412782669,
-            "y": 4.324999809265137,
-            "z": -0.39999961853027346
+            "x": 0.010999977588653565,
+            "y": 4.190000057220459,
+            "z": -0.39999985694885256
         },
         {
             "x": 0.7999999523162842,
-            "y": 4.245999813079834,
-            "z": -0.3249995708465576
+            "y": 4.199999809265137,
+            "z": -0.19999980926513673
         }
     ],
     "weaponClassOnWeaponMounts": [
         1,
-        2,
+        1,
         1
     ],
     "hp": 137200,
     "moveSpeed": 2.9000000953674318,
+    "abilityType": 6,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
         "cooldownTime": 12.0,
         "timeActive": 4.0,
-        "primaryEffectMultiplier": -2.25,
+        "primaryEffectMultiplier": 0.25,
         "secondaryEffectMultiplier": 1.399999976158142,
         "firstActivationEffectMultiplier": 1.0,
         "gravityValue": 1.0,
@@ -680,6 +687,7 @@
     ],
     "hp": 99000,
     "moveSpeed": 5.0,
+    "abilityType": 7,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
@@ -728,7 +736,7 @@
             "weaponMuzzles": [
                 {
                     "x": 0.0,
-                    "y": 0.05000000074505806,
+                    "y": 0.019999999552965165,
                     "z": 0.6499999761581421
                 }
             ],
@@ -857,6 +865,7 @@
     ],
     "hp": 155000,
     "moveSpeed": 2.700000047683716,
+    "abilityType": 1,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "ability": {
@@ -905,7 +914,7 @@
             "weaponMuzzles": [
                 {
                     "x": 0.0,
-                    "y": 0.15000000596046449,
+                    "y": 0.11999999731779099,
                     "z": 0.5
                 }
             ],
@@ -949,7 +958,7 @@
             "weaponMuzzles": [
                 {
                     "x": 0.0,
-                    "y": 0.05000000074505806,
+                    "y": 0.019999999552965165,
                     "z": 0.6499999761581421
                 }
             ],
@@ -993,7 +1002,7 @@
             "weaponMuzzles": [
                 {
                     "x": 0.0,
-                    "y": 0.15000000596046449,
+                    "y": 0.11999999731779099,
                     "z": 0.5
                 }
             ],
