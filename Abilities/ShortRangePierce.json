@@ -1,19 +1,19 @@
 {
-    "cooldownTime": 4.0,
-    "timeActive": -1.0,
-    "primaryEffectMultiplier": 0.699999988079071,
-    "secondaryEffectMultiplier": 0.0,
+    "cooldownTime": 10.0,
+    "timeActive": 4.0,
+    "primaryEffectMultiplier": 11.0,
+    "secondaryEffectMultiplier": 7.0,
     "firstActivationEffectMultiplier": 1.0,
     "gravityValue": 1.0,
     "maxCharges": 1,
-    "canBeEndedManually": true,
+    "canBeEndedManually": false,
     "endsOnceGrounded": false,
     "canBeTriggeredMultipleTimes": false,
     "rechargeAllChargesAtOnce": false,
     "startCooldownAfterAbilityEnd": false,
-    "abilityType": 5,
-    "shieldType": 1,
+    "abilityType": 10,
+    "shieldType": 0,
     "shieldParameterHolder": {
-        "instanceID": 79498
+        "instanceID": 0
     }
 }
