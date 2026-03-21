@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 83386
+        "instanceID": 83360
     },
     "cameraShakeIntensity": 3.0
 }
