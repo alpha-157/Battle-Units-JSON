@@ -15,7 +15,7 @@
     "bulletLifeTime": 3.0,
     "bulletTimeAliveAfterHit": 1.0,
     "bulletSize": 0.25,
-    "range": 500.0,
+    "range": 50.0,
     "verticalSpread": 2.5,
     "horizontalSpread": 2.5,
     "explosionRange": 0.0,
