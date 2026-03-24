@@ -6,7 +6,7 @@
     "damage": 44.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
-    "reloadTime": 0.11999999731779099,
+    "reloadTime": 0.12999999523162843,
     "continuousReload": true,
     "ammo": 100,
     "barrelAmount": 1,
@@ -14,7 +14,7 @@
     "bulletSpeed": 200.0,
     "bulletLifeTime": 3.0,
     "bulletTimeAliveAfterHit": 1.0,
-    "bulletSize": 0.25,
+    "bulletSize": 1.0,
     "range": 50.0,
     "verticalSpread": 2.5,
     "horizontalSpread": 2.5,
@@ -41,12 +41,12 @@
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.1850000023841858,
-            "z": 0.43700000643730166
+            "y": 0.0689999982714653,
+            "z": 0.39399999380111697
         }
     ],
     "weaponPrefab": {
-        "instanceID": 281042
+        "instanceID": 83342
     },
     "cameraShakeIntensity": 0.02500000037252903
 }

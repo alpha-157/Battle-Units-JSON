@@ -6,7 +6,7 @@
     "damage": 87.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
-    "reloadTime": 0.11999999731779099,
+    "reloadTime": 0.12999999523162843,
     "continuousReload": true,
     "ammo": 100,
     "barrelAmount": 1,
@@ -14,7 +14,7 @@
     "bulletSpeed": 200.0,
     "bulletLifeTime": 3.0,
     "bulletTimeAliveAfterHit": 1.0,
-    "bulletSize": 0.25,
+    "bulletSize": 1.0,
     "range": 50.0,
     "verticalSpread": 2.5,
     "horizontalSpread": 2.5,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 167480
+        "instanceID": 83340
     },
     "cameraShakeIntensity": 0.05000000074505806
 }
