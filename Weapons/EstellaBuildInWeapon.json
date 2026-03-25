@@ -1,14 +1,14 @@
 {
     "alloyCost": 0,
-    "quantumCoresCost": 1000,
-    "shootInterval": 0.029999999329447748,
+    "quantumCoresCost": 0,
+    "shootInterval": 4.0,
     "particlesPerShot": 1,
     "damage": 142.0,
-    "burstInterval": 0.0,
-    "burstAmount": 0,
-    "reloadTime": 0.14000000059604646,
+    "burstInterval": 0.05000000074505806,
+    "burstAmount": 50,
+    "reloadTime": 4.0,
     "continuousReload": true,
-    "ammo": 100,
+    "ammo": 50,
     "barrelAmount": 1,
     "barrelSelectionBasedOnAmmoCount": false,
     "bulletSpeed": 200.0,
@@ -31,9 +31,9 @@
     "minArcEndpointRange": 0.0,
     "maxArcEndpointRange": 0.0,
     "ammoType": 5,
-    "weaponType": 17,
-    "weaponClass": 1,
-    "bulletType": 4,
+    "weaponType": 19,
+    "weaponClass": 0,
+    "bulletType": 2,
     "hitType": 0,
     "reloadAnimation": {
         "instanceID": 0
@@ -41,12 +41,12 @@
     "weaponMuzzles": [
         {
             "x": 0.0,
-            "y": 0.1850000023841858,
-            "z": 0.43700000643730166
+            "y": 0.0,
+            "z": 0.0
         }
     ],
     "weaponPrefab": {
-        "instanceID": 83342
+        "instanceID": 0
     },
     "cameraShakeIntensity": 0.05000000074505806
 }
