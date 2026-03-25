@@ -33,7 +33,7 @@
     "ammoType": 5,
     "weaponType": 19,
     "weaponClass": 0,
-    "bulletType": 2,
+    "bulletType": 4,
     "hitType": 0,
     "reloadAnimation": {
         "instanceID": 0
