@@ -3,9 +3,11 @@
     "quantumCoresCost": 0,
     "hp": 122000,
     "moveSpeed": 2.0,
-    "abilityType": 3,
-    "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
+    "maxSlopeAngle": 50.0,
+    "abilityType": 3,
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "weaponMounts": [
         {
             "x": -0.8999922275543213,
@@ -35,7 +37,7 @@
         2
     ],
     "robotPrefab": {
-        "instanceID": 83296
+        "instanceID": 83298
     },
     "robotType": 3,
     "robotMovementType": 1,
