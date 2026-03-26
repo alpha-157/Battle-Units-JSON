@@ -3,7 +3,7 @@
     "quantumCoresCost": 0,
     "shootInterval": 1.5,
     "particlesPerShot": 1,
-    "damage": 703.0,
+    "damage": 879.0,
     "burstInterval": 0.5,
     "burstAmount": 2,
     "reloadTime": 5.0,
@@ -11,7 +11,7 @@
     "ammo": 4,
     "barrelAmount": 4,
     "barrelSelectionBasedOnAmmoCount": true,
-    "bulletSpeed": 60.0,
+    "bulletSpeed": 80.0,
     "bulletLifeTime": 4.0,
     "bulletTimeAliveAfterHit": 2.0,
     "bulletSize": 0.05000000074505806,
@@ -41,22 +41,22 @@
     "weaponMuzzles": [
         {
             "x": -0.05000000074505806,
-            "y": 0.1599999964237213,
+            "y": 0.12099999934434891,
             "z": 0.550000011920929
         },
         {
             "x": -0.05000000074505806,
-            "y": 0.07000000029802323,
+            "y": 0.031000003218650819,
             "z": 0.550000011920929
         },
         {
             "x": 0.05000000074505806,
-            "y": 0.07000000029802323,
+            "y": 0.031000003218650819,
             "z": 0.550000011920929
         },
         {
             "x": 0.05000000074505806,
-            "y": 0.1599999964237213,
+            "y": 0.12099999934434891,
             "z": 0.550000011920929
         }
     ],
