@@ -25,6 +25,8 @@
         1,
         2
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 100000,
     "moveSpeed": 5.5,
     "abilityType": 3,
@@ -200,6 +202,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -247,6 +250,8 @@
         1,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 137200,
     "moveSpeed": 2.9000000953674318,
     "abilityType": 6,
@@ -467,6 +472,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -508,6 +514,8 @@
         2,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 99000,
     "moveSpeed": 5.0,
     "abilityType": 7,
@@ -669,6 +677,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -710,6 +719,8 @@
         1,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 167000,
     "moveSpeed": 2.299999952316284,
     "abilityType": 5,
@@ -841,6 +852,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -882,8 +894,24 @@
         2,
         2
     ],
-    "hp": 942000,
-    "moveSpeed": 5.0,
+    "abilityWeaponMounts": [
+        {
+            "x": 0.9608067274093628,
+            "y": 3.560002326965332,
+            "z": 1.088000774383545
+        },
+        {
+            "x": -0.9591939449310303,
+            "y": 3.560002326965332,
+            "z": 1.088000774383545
+        }
+    ],
+    "weaponTypesOnAbilityWeaponMounts": [
+        19,
+        19
+    ],
+    "hp": 194200,
+    "moveSpeed": 4.199999809265137,
     "abilityType": 10,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
@@ -937,12 +965,12 @@
                     "z": 0.39399999380111697
                 }
             ],
-            "shootInterval": 0.029999999329447748,
+            "shootInterval": 0.03999999910593033,
             "burstInterval": 0.0,
-            "reloadTime": 0.12999999523162843,
+            "reloadTime": 0.1599999964237213,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 100,
+            "ammo": 90,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -950,7 +978,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 50.0,
-            "damage": 44,
+            "damage": 96,
             "verticalSpread": 2.5,
             "horizontalSpread": 2.5,
             "explosionRange": 0.0,
@@ -981,12 +1009,12 @@
                     "z": 0.39399999380111697
                 }
             ],
-            "shootInterval": 0.029999999329447748,
+            "shootInterval": 0.03999999910593033,
             "burstInterval": 0.0,
-            "reloadTime": 0.12999999523162843,
+            "reloadTime": 0.1599999964237213,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 100,
+            "ammo": 90,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -994,7 +1022,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 50.0,
-            "damage": 44,
+            "damage": 96,
             "verticalSpread": 2.5,
             "horizontalSpread": 2.5,
             "explosionRange": 0.0,
@@ -1013,6 +1041,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,

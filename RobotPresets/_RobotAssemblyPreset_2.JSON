@@ -25,6 +25,8 @@
         1,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 115000,
     "moveSpeed": 2.0999999046325685,
     "abilityType": 2,
@@ -200,6 +202,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -247,6 +250,8 @@
         2,
         2
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 100000,
     "moveSpeed": 3.0,
     "abilityType": 8,
@@ -422,6 +427,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 3,
         "shieldCanBeShotThroughByAllies": true,
@@ -469,6 +475,8 @@
         1,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 137200,
     "moveSpeed": 2.9000000953674318,
     "abilityType": 6,
@@ -644,6 +652,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -685,6 +694,8 @@
         2,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 99000,
     "moveSpeed": 5.0,
     "abilityType": 7,
@@ -816,6 +827,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -863,6 +875,8 @@
         2,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 155000,
     "moveSpeed": 2.700000047683716,
     "abilityType": 1,
@@ -918,12 +932,12 @@
                     "z": 0.43700000643730166
                 }
             ],
-            "shootInterval": 0.029999999329447748,
+            "shootInterval": 0.03999999910593033,
             "burstInterval": 0.0,
-            "reloadTime": 0.12999999523162843,
+            "reloadTime": 0.1599999964237213,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 100,
+            "ammo": 90,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -931,7 +945,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 50.0,
-            "damage": 87,
+            "damage": 192,
             "verticalSpread": 2.5,
             "horizontalSpread": 2.5,
             "explosionRange": 0.0,
@@ -962,12 +976,12 @@
                     "z": 0.39399999380111697
                 }
             ],
-            "shootInterval": 0.029999999329447748,
+            "shootInterval": 0.03999999910593033,
             "burstInterval": 0.0,
-            "reloadTime": 0.12999999523162843,
+            "reloadTime": 0.1599999964237213,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 100,
+            "ammo": 90,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -975,7 +989,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 50.0,
-            "damage": 44,
+            "damage": 96,
             "verticalSpread": 2.5,
             "horizontalSpread": 2.5,
             "explosionRange": 0.0,
@@ -1006,12 +1020,12 @@
                     "z": 0.43700000643730166
                 }
             ],
-            "shootInterval": 0.029999999329447748,
+            "shootInterval": 0.03999999910593033,
             "burstInterval": 0.0,
-            "reloadTime": 0.12999999523162843,
+            "reloadTime": 0.1599999964237213,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 100,
+            "ammo": 90,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -1019,7 +1033,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 50.0,
-            "damage": 87,
+            "damage": 192,
             "verticalSpread": 2.5,
             "horizontalSpread": 2.5,
             "explosionRange": 0.0,
@@ -1038,6 +1052,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,

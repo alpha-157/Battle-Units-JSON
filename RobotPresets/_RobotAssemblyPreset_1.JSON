@@ -19,8 +19,24 @@
         2,
         2
     ],
-    "hp": 942000,
-    "moveSpeed": 5.0,
+    "abilityWeaponMounts": [
+        {
+            "x": 0.9608067274093628,
+            "y": 3.560002326965332,
+            "z": 1.088000774383545
+        },
+        {
+            "x": -0.9591939449310303,
+            "y": 3.560002326965332,
+            "z": 1.088000774383545
+        }
+    ],
+    "weaponTypesOnAbilityWeaponMounts": [
+        19,
+        19
+    ],
+    "hp": 194200,
+    "moveSpeed": 4.199999809265137,
     "abilityType": 10,
     "maxSlopeAngle": 50.0,
     "slopePushdownSpeedMultiplier": 7.0,
@@ -150,6 +166,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -191,6 +208,8 @@
         2,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 99000,
     "moveSpeed": 5.0,
     "abilityType": 7,
@@ -352,6 +371,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -399,6 +419,8 @@
         1,
         2
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 112500,
     "moveSpeed": 4.199999809265137,
     "abilityType": 4,
@@ -574,6 +596,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -615,6 +638,8 @@
         1,
         1
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 167000,
     "moveSpeed": 2.299999952316284,
     "abilityType": 5,
@@ -746,6 +771,7 @@
             "maxArcEndpointRange": 0.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
@@ -799,6 +825,8 @@
         1,
         2
     ],
+    "abilityWeaponMounts": [],
+    "weaponTypesOnAbilityWeaponMounts": [],
     "hp": 122000,
     "moveSpeed": 2.0,
     "abilityType": 3,
@@ -1048,6 +1076,7 @@
             "maxArcEndpointRange": 800.0
         }
     ],
+    "abilityWeapons": [],
     "shieldConfig": {
         "shieldType": 0,
         "shieldCanBeShotThroughByAllies": false,
