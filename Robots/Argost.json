@@ -1,7 +1,7 @@
 {
     "alloyCost": 0,
     "quantumCoresCost": 1000,
-    "hp": 137200,
+    "hp": 107200,
     "moveSpeed": 2.9000000953674318,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
@@ -27,7 +27,7 @@
     ],
     "weaponClassOnWeaponMounts": [
         1,
-        1,
+        2,
         1
     ],
     "robotPrefab": {
