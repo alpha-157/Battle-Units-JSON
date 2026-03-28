@@ -31,10 +31,10 @@
         }
     ],
     "weaponClassOnWeaponMounts": [
+        1,
         2,
-        1,
-        1,
-        2
+        2,
+        1
     ],
     "robotPrefab": {
         "instanceID": 83308
