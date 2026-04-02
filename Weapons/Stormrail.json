@@ -6,7 +6,7 @@
     "damage": 277.0,
     "burstInterval": 0.10000000149011612,
     "burstAmount": 10,
-    "reloadTime": 10.0,
+    "reloadTime": 11.0,
     "continuousReload": false,
     "ammo": 20,
     "barrelAmount": 4,
@@ -18,7 +18,7 @@
     "range": 1500.0,
     "verticalSpread": 0.10000000149011612,
     "horizontalSpread": 0.10000000149011612,
-    "explosionRange": 7.0,
+    "explosionRange": 6.0,
     "guidedBullet": false,
     "homingNoiseFrequency": 0.0,
     "homingNoiseAmplitude": 0.0,
@@ -61,7 +61,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 83326
+        "instanceID": 85816
     },
     "cameraShakeIntensity": 1.0
 }
