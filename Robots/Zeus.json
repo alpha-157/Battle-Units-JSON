@@ -5,7 +5,7 @@
     "moveSpeed": 2.0,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
-    "abilityType": 3,
+    "abilityType": 9,
     "abilityWeaponMounts": [],
     "weaponTypesOnAbilityWeaponMounts": [],
     "weaponMounts": [
@@ -37,7 +37,7 @@
         1
     ],
     "robotPrefab": {
-        "instanceID": 83308
+        "instanceID": 85798
     },
     "robotType": 3,
     "robotMovementType": 1,
