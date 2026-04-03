@@ -18,7 +18,7 @@
     "range": 1500.0,
     "verticalSpread": 0.10000000149011612,
     "horizontalSpread": 0.10000000149011612,
-    "explosionRange": 50.0,
+    "explosionRange": 25.0,
     "guidedBullet": false,
     "homingNoiseFrequency": 0.0,
     "homingNoiseAmplitude": 0.0,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 85814
+        "instanceID": 83382
     },
     "cameraShakeIntensity": 1.25
 }
