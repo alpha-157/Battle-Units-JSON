@@ -1,6 +1,6 @@
 {
     "alloyCost": 0,
-    "quantumCoresCost": 1000,
+    "quantumCoresCost": 50000,
     "shootInterval": 0.03999999910593033,
     "particlesPerShot": 1,
     "damage": 115.0,
