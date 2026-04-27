@@ -1,21 +1,21 @@
 {
     "alloyCost": 0,
-    "quantumCoresCost": 0,
-    "shootInterval": 0.05000000074505806,
+    "quantumCoresCost": 50000,
+    "shootInterval": 0.5,
     "particlesPerShot": 1,
-    "damage": 332.0,
+    "damage": 1498.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
-    "reloadTime": 8.0,
+    "reloadTime": 9.0,
     "continuousReload": false,
-    "ammo": 25,
-    "barrelAmount": 1,
+    "ammo": 12,
+    "barrelAmount": 2,
     "barrelSelectionBasedOnAmmoCount": false,
-    "bulletSpeed": 200.0,
-    "bulletLifeTime": 3.0,
-    "bulletTimeAliveAfterHit": 1.0,
-    "bulletSize": 1.0,
-    "range": 80.0,
+    "bulletSpeed": 152.0,
+    "bulletLifeTime": 6.0,
+    "bulletTimeAliveAfterHit": 2.0,
+    "bulletSize": 0.4000000059604645,
+    "range": 600.0,
     "verticalSpread": 0.0,
     "horizontalSpread": 0.0,
     "explosionRange": 0.0,
@@ -30,23 +30,28 @@
     "arcLaunchAngleRandomness": 0.0,
     "minArcEndpointRange": 0.0,
     "maxArcEndpointRange": 0.0,
-    "ammoType": 5,
-    "weaponType": 21,
-    "weaponClass": 0,
-    "bulletType": 4,
-    "hitType": 0,
+    "ammoType": 1,
+    "weaponType": 19,
+    "weaponClass": 1,
+    "bulletType": 3,
+    "hitType": 2,
     "reloadAnimation": {
         "instanceID": 0
     },
     "weaponMuzzles": [
         {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "x": 0.10000000149011612,
+            "y": 0.12999999523162843,
+            "z": 0.5
+        },
+        {
+            "x": -0.10000000149011612,
+            "y": 0.12999999523162843,
+            "z": 0.5
         }
     ],
     "weaponPrefab": {
-        "instanceID": 0
+        "instanceID": 97258
     },
-    "cameraShakeIntensity": 0.05000000074505806
+    "cameraShakeIntensity": 5.0
 }
