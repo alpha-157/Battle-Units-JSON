@@ -19,8 +19,8 @@
         }
     ],
     "weaponTypesOnAbilityWeaponMounts": [
-        19,
-        19
+        21,
+        21
     ],
     "weaponMounts": [
         {
@@ -39,7 +39,7 @@
         2
     ],
     "robotPrefab": {
-        "instanceID": 85856
+        "instanceID": 86744
     },
     "robotType": 10,
     "robotMovementType": 2,
