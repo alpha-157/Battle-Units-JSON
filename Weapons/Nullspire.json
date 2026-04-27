@@ -33,7 +33,7 @@
     "ammoType": 1,
     "weaponType": 19,
     "weaponClass": 1,
-    "bulletType": 3,
+    "bulletType": 6,
     "hitType": 2,
     "reloadAnimation": {
         "instanceID": 0
@@ -53,5 +53,5 @@
     "weaponPrefab": {
         "instanceID": 97258
     },
-    "cameraShakeIntensity": 5.0
+    "cameraShakeIntensity": 2.0
 }
