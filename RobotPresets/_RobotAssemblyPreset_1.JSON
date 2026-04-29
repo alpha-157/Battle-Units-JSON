@@ -32,8 +32,8 @@
         }
     ],
     "weaponTypesOnAbilityWeaponMounts": [
-        19,
-        19
+        21,
+        21
     ],
     "hp": 184200,
     "moveSpeed": 4.300000190734863,
@@ -168,7 +168,7 @@
     ],
     "abilityWeapons": [
         {
-            "weaponType": 19,
+            "weaponType": 21,
             "weaponClass": 0,
             "ammoType": 5,
             "bulletType": 4,
@@ -185,7 +185,7 @@
             "reloadTime": 8.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 25,
+            "ammo": 26,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -193,7 +193,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 80.0,
-            "damage": 332,
+            "damage": 365,
             "verticalSpread": 0.0,
             "horizontalSpread": 0.0,
             "explosionRange": 0.0,
@@ -212,7 +212,7 @@
             "maxArcEndpointRange": 0.0
         },
         {
-            "weaponType": 19,
+            "weaponType": 21,
             "weaponClass": 0,
             "ammoType": 5,
             "bulletType": 4,
@@ -229,7 +229,7 @@
             "reloadTime": 8.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 25,
+            "ammo": 26,
             "barrelAmount": 1,
             "burstAmount": 0,
             "bulletSpeed": 200.0,
@@ -237,7 +237,7 @@
             "bulletLifeTime": 3.0,
             "bulletTimeAliveAfterHit": 1.0,
             "range": 80.0,
-            "damage": 332,
+            "damage": 365,
             "verticalSpread": 0.0,
             "horizontalSpread": 0.0,
             "explosionRange": 0.0,
@@ -772,32 +772,37 @@
     },
     "weapons": [
         {
-            "weaponType": 9,
+            "weaponType": 19,
             "weaponClass": 1,
             "ammoType": 1,
-            "bulletType": 5,
+            "bulletType": 6,
             "hitType": 2,
             "weaponMuzzles": [
                 {
-                    "x": 0.0,
-                    "y": 0.10000000149011612,
-                    "z": 0.800000011920929
+                    "x": 0.07500000298023224,
+                    "y": 0.07000000029802323,
+                    "z": 0.4000000059604645
+                },
+                {
+                    "x": -0.07500000298023224,
+                    "y": 0.07000000029802323,
+                    "z": 0.4000000059604645
                 }
             ],
-            "shootInterval": 0.5,
+            "shootInterval": 0.44999998807907107,
             "burstInterval": 0.0,
             "reloadTime": 8.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 1,
-            "barrelAmount": 1,
+            "ammo": 12,
+            "barrelAmount": 2,
             "burstAmount": 0,
             "bulletSpeed": 152.0,
             "bulletSize": 0.4000000059604645,
             "bulletLifeTime": 6.0,
             "bulletTimeAliveAfterHit": 2.0,
-            "range": 1100.0,
-            "damage": 7142,
+            "range": 600.0,
+            "damage": 621,
             "verticalSpread": 0.0,
             "horizontalSpread": 0.0,
             "explosionRange": 0.0,
@@ -816,32 +821,37 @@
             "maxArcEndpointRange": 0.0
         },
         {
-            "weaponType": 9,
+            "weaponType": 19,
             "weaponClass": 1,
             "ammoType": 1,
-            "bulletType": 5,
+            "bulletType": 6,
             "hitType": 2,
             "weaponMuzzles": [
                 {
-                    "x": 0.0,
-                    "y": 0.10000000149011612,
-                    "z": 0.800000011920929
+                    "x": 0.07500000298023224,
+                    "y": 0.07000000029802323,
+                    "z": 0.4000000059604645
+                },
+                {
+                    "x": -0.07500000298023224,
+                    "y": 0.07000000029802323,
+                    "z": 0.4000000059604645
                 }
             ],
-            "shootInterval": 0.5,
+            "shootInterval": 0.44999998807907107,
             "burstInterval": 0.0,
             "reloadTime": 8.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
-            "ammo": 1,
-            "barrelAmount": 1,
+            "ammo": 12,
+            "barrelAmount": 2,
             "burstAmount": 0,
             "bulletSpeed": 152.0,
             "bulletSize": 0.4000000059604645,
             "bulletLifeTime": 6.0,
             "bulletTimeAliveAfterHit": 2.0,
-            "range": 1100.0,
-            "damage": 7142,
+            "range": 600.0,
+            "damage": 621,
             "verticalSpread": 0.0,
             "horizontalSpread": 0.0,
             "explosionRange": 0.0,
@@ -973,7 +983,7 @@
             ],
             "shootInterval": 1.0,
             "burstInterval": 0.0,
-            "reloadTime": 11.0,
+            "reloadTime": 12.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
             "ammo": 5,
@@ -987,7 +997,7 @@
             "damage": 2421,
             "verticalSpread": 0.10000000149011612,
             "horizontalSpread": 0.10000000149011612,
-            "explosionRange": 50.0,
+            "explosionRange": 12.0,
             "continuousReload": false,
             "barrelSelectionBasedOnAmmoCount": false,
             "guidedBullet": false,
@@ -999,7 +1009,7 @@
             "arcBullet": true,
             "arcLaunchAngle": 20.0,
             "arcLaunchAngleRandomness": 1.5,
-            "minArcEndpointRange": 150.0,
+            "minArcEndpointRange": 200.0,
             "maxArcEndpointRange": 800.0
         },
         {
@@ -1032,7 +1042,7 @@
             ],
             "shootInterval": 3.0,
             "burstInterval": 0.10000000149011612,
-            "reloadTime": 11.0,
+            "reloadTime": 12.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
             "ammo": 20,
@@ -1046,7 +1056,7 @@
             "damage": 277,
             "verticalSpread": 0.10000000149011612,
             "horizontalSpread": 0.10000000149011612,
-            "explosionRange": 6.0,
+            "explosionRange": 5.0,
             "continuousReload": false,
             "barrelSelectionBasedOnAmmoCount": true,
             "guidedBullet": false,
@@ -1058,7 +1068,7 @@
             "arcBullet": true,
             "arcLaunchAngle": 20.0,
             "arcLaunchAngleRandomness": 1.5,
-            "minArcEndpointRange": 150.0,
+            "minArcEndpointRange": 200.0,
             "maxArcEndpointRange": 800.0
         },
         {
@@ -1091,7 +1101,7 @@
             ],
             "shootInterval": 3.0,
             "burstInterval": 0.10000000149011612,
-            "reloadTime": 11.0,
+            "reloadTime": 12.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
             "ammo": 20,
@@ -1105,7 +1115,7 @@
             "damage": 277,
             "verticalSpread": 0.10000000149011612,
             "horizontalSpread": 0.10000000149011612,
-            "explosionRange": 6.0,
+            "explosionRange": 5.0,
             "continuousReload": false,
             "barrelSelectionBasedOnAmmoCount": true,
             "guidedBullet": false,
@@ -1117,7 +1127,7 @@
             "arcBullet": true,
             "arcLaunchAngle": 20.0,
             "arcLaunchAngleRandomness": 1.5,
-            "minArcEndpointRange": 150.0,
+            "minArcEndpointRange": 200.0,
             "maxArcEndpointRange": 800.0
         },
         {
@@ -1135,7 +1145,7 @@
             ],
             "shootInterval": 1.0,
             "burstInterval": 0.0,
-            "reloadTime": 11.0,
+            "reloadTime": 12.0,
             "reloadAnimationLength": 0.0,
             "particlesPerShot": 1.0,
             "ammo": 5,
@@ -1149,7 +1159,7 @@
             "damage": 2421,
             "verticalSpread": 0.10000000149011612,
             "horizontalSpread": 0.10000000149011612,
-            "explosionRange": 50.0,
+            "explosionRange": 12.0,
             "continuousReload": false,
             "barrelSelectionBasedOnAmmoCount": false,
             "guidedBullet": false,
@@ -1161,7 +1171,7 @@
             "arcBullet": true,
             "arcLaunchAngle": 20.0,
             "arcLaunchAngleRandomness": 1.5,
-            "minArcEndpointRange": 150.0,
+            "minArcEndpointRange": 200.0,
             "maxArcEndpointRange": 800.0
         }
     ],
