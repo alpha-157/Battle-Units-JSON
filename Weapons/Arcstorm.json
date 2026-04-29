@@ -3,7 +3,7 @@
     "quantumCoresCost": 0,
     "shootInterval": 1.0,
     "particlesPerShot": 1,
-    "damage": 2421.0,
+    "damage": 2178.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
     "reloadTime": 12.0,
@@ -18,7 +18,7 @@
     "range": 1500.0,
     "verticalSpread": 0.10000000149011612,
     "horizontalSpread": 0.10000000149011612,
-    "explosionRange": 12.0,
+    "explosionRange": 10.0,
     "guidedBullet": false,
     "homingNoiseFrequency": 0.0,
     "homingNoiseAmplitude": 0.0,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 94568
+        "instanceID": 86474
     },
     "cameraShakeIntensity": 1.25
 }
