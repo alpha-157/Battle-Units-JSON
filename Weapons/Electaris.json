@@ -3,7 +3,7 @@
     "quantumCoresCost": 50000,
     "shootInterval": 0.03999999910593033,
     "particlesPerShot": 1,
-    "damage": 127.0,
+    "damage": 140.0,
     "burstInterval": 0.0,
     "burstAmount": 0,
     "reloadTime": 0.1599999964237213,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 93440
+        "instanceID": 94166
     },
     "cameraShakeIntensity": 0.02500000037252903
 }

@@ -6,7 +6,7 @@
     "damage": 277.0,
     "burstInterval": 0.10000000149011612,
     "burstAmount": 10,
-    "reloadTime": 11.0,
+    "reloadTime": 12.0,
     "continuousReload": false,
     "ammo": 20,
     "barrelAmount": 4,
@@ -28,7 +28,7 @@
     "arcBullet": true,
     "arcLaunchAngle": 20.0,
     "arcLaunchAngleRandomness": 1.5,
-    "minArcEndpointRange": 150.0,
+    "minArcEndpointRange": 200.0,
     "maxArcEndpointRange": 800.0,
     "ammoType": 4,
     "weaponType": 2,
@@ -61,7 +61,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 93410
+        "instanceID": 94570
     },
     "cameraShakeIntensity": 1.0
 }
