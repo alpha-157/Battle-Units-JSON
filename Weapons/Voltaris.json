@@ -8,7 +8,7 @@
     "burstAmount": 0,
     "reloadTime": 0.1599999964237213,
     "continuousReload": true,
-    "ammo": 65,
+    "ammo": 60,
     "barrelAmount": 1,
     "barrelSelectionBasedOnAmmoCount": false,
     "bulletSpeed": 200.0,
@@ -46,7 +46,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 86502
+        "instanceID": 83628
     },
     "cameraShakeIntensity": 0.05000000074505806
 }

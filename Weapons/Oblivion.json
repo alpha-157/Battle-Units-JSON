@@ -6,7 +6,7 @@
     "damage": 826.0,
     "burstInterval": 0.30000001192092898,
     "burstAmount": 3,
-    "reloadTime": 6.0,
+    "reloadTime": 6.099999904632568,
     "continuousReload": false,
     "ammo": 3,
     "barrelAmount": 3,
@@ -56,7 +56,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 86484
+        "instanceID": 83610
     },
     "cameraShakeIntensity": 1.0
 }
