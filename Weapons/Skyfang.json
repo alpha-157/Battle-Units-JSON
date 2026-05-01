@@ -24,7 +24,7 @@
     "homingNoiseAmplitude": 1.5,
     "homingStrength": 10.0,
     "upwardRiseTime": 0.30000001192092898,
-    "upwardRiseStrength": 0.4000000059604645,
+    "upwardRiseStrength": 0.30000001192092898,
     "arcBullet": false,
     "arcLaunchAngle": 0.0,
     "arcLaunchAngleRandomness": 0.0,
@@ -61,7 +61,7 @@
         }
     ],
     "weaponPrefab": {
-        "instanceID": 83608
+        "instanceID": 86394
     },
     "cameraShakeIntensity": 1.25
 }
