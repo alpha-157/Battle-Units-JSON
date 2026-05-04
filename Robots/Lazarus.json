@@ -1,11 +1,11 @@
 {
-    "alloyCost": 75000,
-    "quantumCoresCost": 0,
-    "hp": 132100,
-    "moveSpeed": 3.0999999046325685,
+    "alloyCost": 0,
+    "quantumCoresCost": 250000,
+    "hp": 178800,
+    "moveSpeed": 2.0999999046325685,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
-    "abilityType": 9,
+    "abilityType": 11,
     "abilityWeaponMounts": [],
     "weaponTypesOnAbilityWeaponMounts": [],
     "weaponMounts": [
@@ -23,26 +23,20 @@
             "x": 0.34800761938095095,
             "y": 4.090001106262207,
             "z": 0.13499116897583009
-        },
-        {
-            "x": 0.9000076055526733,
-            "y": 4.060001850128174,
-            "z": 0.020991086959838868
         }
     ],
     "weaponClassOnWeaponMounts": [
-        1,
         2,
         2,
-        1
+        2
     ],
     "robotPrefab": {
-        "instanceID": 77128
+        "instanceID": 77548
     },
-    "robotType": 3,
+    "robotType": 11,
     "robotMovementType": 1,
-    "shieldType": 0,
+    "shieldType": 4,
     "buildInShieldParameterHolder": {
-        "instanceID": 0
+        "instanceID": 77550
     }
 }

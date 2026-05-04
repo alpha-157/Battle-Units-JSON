@@ -2,7 +2,7 @@
     "alloyCost": 0,
     "quantumCoresCost": 100000,
     "hp": 156800,
-    "moveSpeed": 4.699999809265137,
+    "moveSpeed": 4.099999904632568,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
     "abilityType": 10,
@@ -39,7 +39,7 @@
         2
     ],
     "robotPrefab": {
-        "instanceID": 86384
+        "instanceID": 77922
     },
     "robotType": 10,
     "robotMovementType": 2,
