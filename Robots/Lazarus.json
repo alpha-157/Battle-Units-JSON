@@ -1,7 +1,7 @@
 {
     "alloyCost": 0,
     "quantumCoresCost": 250000,
-    "hp": 178800,
+    "hp": 168800,
     "moveSpeed": 2.0999999046325685,
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
