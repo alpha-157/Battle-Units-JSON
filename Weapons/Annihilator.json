@@ -8,7 +8,7 @@
     "burstAmount": 0,
     "reloadTime": 0.699999988079071,
     "continuousReload": true,
-    "ammo": 13,
+    "ammo": 11,
     "barrelAmount": 4,
     "barrelSelectionBasedOnAmmoCount": true,
     "bulletSpeed": 60.0,
