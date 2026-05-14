@@ -1,10 +1,10 @@
 {
     "cooldownTime": 14.0,
-    "timeActive": 8.0,
+    "timeActive": 3.0,
     "primaryEffectMultiplier": 10.0,
-    "secondaryEffectMultiplier": 5.0,
+    "secondaryEffectMultiplier": 12.0,
     "tertiaryEffectMultiplier": 1.5,
-    "firstActivationEffectMultiplier": 12.0,
+    "firstActivationEffectMultiplier": 13.0,
     "gravityValue": 0.0,
     "maxCharges": 1,
     "canBeEndedManually": true,
