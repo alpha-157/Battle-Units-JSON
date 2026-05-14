@@ -6,8 +6,16 @@
     "slopePushdownSpeedMultiplier": 7.0,
     "maxSlopeAngle": 50.0,
     "abilityType": 12,
-    "abilityWeaponMounts": [],
-    "weaponTypesOnAbilityWeaponMounts": [],
+    "abilityWeaponMounts": [
+        {
+            "x": 1.862645149230957e-9,
+            "y": 3.8600025177001955,
+            "z": 0.10000038146972656
+        }
+    ],
+    "weaponTypesOnAbilityWeaponMounts": [
+        22
+    ],
     "weaponMounts": [
         {
             "x": -0.824999988079071,
@@ -15,9 +23,9 @@
             "z": -0.5289998054504395
         },
         {
-            "x": 1.862645149230957e-9,
-            "y": 4.319999694824219,
-            "z": -0.26999998092651369
+            "x": 0.824999988079071,
+            "y": 4.239999771118164,
+            "z": -0.5289998054504395
         }
     ],
     "weaponClassOnWeaponMounts": [
